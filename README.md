@@ -3,7 +3,7 @@ Get the unique iCloud token for a user
 
 # Install
 1. `npm install react-native-icloud-user-token --save`
-2. Go to `node_modules` ➜ `react-native-icloud-user-token` and add `RNICloudUserToken.m` to yout project
+2. Go to `node_modules` ➜ `react-native-icloud-user-token` and add `RNICloudUserToken.m` to your project
 3. Run your project (`Cmd+R`)
 
 
