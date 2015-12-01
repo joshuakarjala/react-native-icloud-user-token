@@ -1,6 +1,6 @@
 {
   "name": "react-native-icloud-user-token",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Get the unique iCloud token for a user ",
   "main": "index.js",
   "scripts": {
