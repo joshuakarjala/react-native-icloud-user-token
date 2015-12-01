@@ -1,2 +1,6 @@
 # RNICloudUserToken
 Get the unique iCloud token for a user
+
+# Install
+
+# Setup project

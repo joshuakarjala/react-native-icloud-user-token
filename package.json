@@ -1,0 +1,25 @@
+{
+  "name": "rn-icloud-user-token",
+  "version": "1.0.0",
+  "description": "Get the unique iCloud token for a user ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuakarjala/RNICloudUserToken.git"
+  },
+  "keywords": [
+    "react-native",
+    "icloud",
+    "ios",
+    "token"
+  ],
+  "author": "Joshua Karjala-Svendsen <joshua@fluxuries.com> (http://twitter.com/joshuakarjala)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuakarjala/RNICloudUserToken/issues"
+  },
+  "homepage": "https://github.com/joshuakarjala/RNICloudUserToken#readme"
+}
