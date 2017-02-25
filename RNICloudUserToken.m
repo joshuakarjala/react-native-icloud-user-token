@@ -5,9 +5,9 @@
 //
 //
 
-#import "RCTBridgeModule.h"
-#import "RCTEventDispatcher.h"
-#import "RCTUtils.h"
+#import "React/RCTBridgeModule.h"
+#import "React/RCTEventDispatcher.h"
+#import "React/RCTUtils.h"
 
 @import CloudKit;
 
